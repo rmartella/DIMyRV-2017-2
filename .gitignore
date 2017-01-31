@@ -1,7 +1,7 @@
 */*/Debug/*
-*/Debug/*.exe
-*/Debug/*.ilk
-*/Debug/*.pdb
+Debug/*.exe
+Debug/*.ilk
+Debug/*.pdb
 RemoteSystemsTempFiles/
 **/CEGUI.log
 .metadata/

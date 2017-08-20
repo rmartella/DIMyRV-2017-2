@@ -16,7 +16,6 @@
     <ClCompile Include="src\InputManager.cpp" />
     <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\Shader.cpp" />
-    <ClCompile Include="src\Sphere.cpp" />
     <ClCompile Include="src\Texture.cpp" />
     <ClCompile Include="src\TimeManager.cpp" />
   </ItemGroup>
